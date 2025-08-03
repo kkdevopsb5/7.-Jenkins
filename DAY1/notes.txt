@@ -184,7 +184,7 @@ step 5:
 http://13.201.93.75:8080/  --> please make sure to enable 8080 port 
 
 cat /var/lib/jenkins/secrets/initialAdminPassword
-
+3ac145cb48be4c608b8d751c70af8d04
 step 6:
 
 click on suggested plugins
